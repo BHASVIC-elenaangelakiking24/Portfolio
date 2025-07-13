@@ -1,0 +1,3 @@
+C:/Users/elena/OneDrive/Documents/GitHub/Portfolio/cmake-build-debug/CMakeFiles/Portfolio.dir
+C:/Users/elena/OneDrive/Documents/GitHub/Portfolio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/elena/OneDrive/Documents/GitHub/Portfolio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
