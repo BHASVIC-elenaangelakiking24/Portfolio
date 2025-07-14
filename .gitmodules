@@ -43,3 +43,6 @@
 [submodule "Cchapters/Chap7"]
 	path = Cchapters/Chap7
 	url = https://github.com/BHASVIC-CompSci/c-chapter7-strings-BHASVIC-elenaangelakiking24.git
+[submodule "JavaChapters/Java1"]
+	path = JavaChapters/Java1
+	url = https://github.com/BHASVIC-CompSci/ElenaJava.git
