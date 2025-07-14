@@ -1,0 +1,45 @@
+[submodule "external/Portfolio"]
+	path = external/Portfolio
+	url = https://github.com/BHASVIC-CompSci/ElenaJava.git
+[submodule "JavaChapters/Java2"]
+	path = JavaChapters/Java2
+	url = https://github.com/BHASVIC-CompSci/ElenaJava2.git
+[submodule "JavaChapters/Java3"]
+	path = JavaChapters/Java3
+	url = https://github.com/BHASVIC-CompSci/ElenaJava3.git
+[submodule "JavaChapters/Java4"]
+	path = JavaChapters/Java4
+	url = https://github.com/BHASVIC-CompSci/ElenaJava4.git
+[submodule "HotelKashyyk/HEC"]
+	path = HotelKashyyk/HEC
+	url = https://github.com/BHASVIC-CompSci/Hotel-K---HEC.git
+[submodule "JavaChapters/Projects"]
+	path = JavaChapters/Projects
+	url = https://github.com/BHASVIC-CompSci/JavaProgrammingProjects.git
+[submodule "Cchapters/Chap1"]
+	path = Cchapters/Chap1
+	url = https://github.com/BHASVIC-CompSci/c-chapter1-intro-BHASVIC-elenaangelakiking24.git
+[submodule "Cchapters/Chap2"]
+	path = Cchapters/Chap2
+	url = https://github.com/BHASVIC-CompSci/c-chapter2-selection-ifstatements-BHASVIC-elenaangelakiking24.git
+[submodule "Cchapters/Chap3"]
+	path = Cchapters/Chap3
+	url = https://github.com/BHASVIC-CompSci/c-chapter3-case-BHASVIC-elenaangelakiking24.git
+[submodule "Cchapters/Chap4"]
+	path = Cchapters/Chap4
+	url = https://github.com/BHASVIC-CompSci/c-chapter4-iteration-BHASVIC-elenaangelakiking24.git
+[submodule "Cchapters/Chap5"]
+	path = Cchapters/Chap5
+	url = https://github.com/BHASVIC-CompSci/c-chapter5-arrays-BHASVIC-elenaangelakiking24.git
+[submodule "Cchapters/Chap6"]
+	path = Cchapters/Chap6
+	url = https://github.com/BHASVIC-CompSci/c-chapter6-2d-arrays-BHASVIC-elenaangelakiking24.git
+[submodule "Cchpaters/Chap7"]
+	path = Cchpaters/Chap7
+	url = https://github.com/BHASVIC-CompSci/c-chapter7-strings-BHASVIC-elenaangelakiking24.git
+[submodule "Cchapters/Chap8"]
+	path = Cchapters/Chap8
+	url = https://github.com/BHASVIC-CompSci/c-chapter8-subroutines-BHASVIC-elenaangelakiking24.git
+[submodule "Cchapters/Chap7"]
+	path = Cchapters/Chap7
+	url = https://github.com/BHASVIC-CompSci/c-chapter7-strings-BHASVIC-elenaangelakiking24.git
